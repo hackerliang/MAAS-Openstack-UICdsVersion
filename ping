@@ -1,0 +1,4 @@
+#!/bin/sh
+while true;do
+	ping 172.16.193.193 -i 300
+done
